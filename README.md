@@ -20,7 +20,7 @@ shows the string `"Hello World!"` on the screen.
 
 ## Compile program
 
-To compile the "Hello World" programt type the following: 
+To compile the "Hello World" program type the following: 
 ```console
 javac HelloWorld.java
 ```
